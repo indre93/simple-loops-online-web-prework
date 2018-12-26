@@ -13,8 +13,7 @@ def loop_iterator(number_of_times)
 end
 
 def times_iterator(number_of_times)
-  # code 
-  7.times do 
+  # code your solution here using the "times" keyword
   phrase = "Welcome to Flatiron School's Web Development Course!"
   
 end
